@@ -1,5 +1,5 @@
 ---
-wordpress_version: 3.9
+wordpress_version: 3.9.1
 wordpress_download_url: http://wordpress.org/wordpress-{{wordpress_version}}.tar.gz
 
 wordpress_db_host: localhost
